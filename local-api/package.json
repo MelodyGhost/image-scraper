@@ -12,7 +12,9 @@
   "dependencies": {
     "cherio": "^1.0.0-rc.2",
     "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "mongoose": "^5.13.5",
     "request": "^2.88.2"
   },
   "devDependencies": {
